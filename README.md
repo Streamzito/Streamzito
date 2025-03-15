@@ -3,11 +3,9 @@
 </h1>
   <p align="center">
     <a href=""><img alt="License" src="https://img.shields.io/github/license/atlas-os/atlas?style=for-the-badge&logo=github&color=9146ff"/></a>
-    <a href=""><img alt="Contributors" src="https://img.shields.io/github/contributors/atlas-os/atlas?style=for-the-badge&color=9146ff" /></a>
-    <a href=""><img alt="Release" src="https://img.shields.io/github/release/atlas-os/atlas?style=for-the-badge&color=9146ff" /></a>
-    <a href=""><img alt="Code of Conduct" src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge&color=9146ff" /></a>
   </p>
-<p align="center">A transparent and lightweight modification to Windows, designed to optimize performance, privacy and usability.</p>
+<p align="center">Notifique suas lives automaticamente
+Receba notificações em tempo real com a integração mais fácil da Twitch💜​.</p>
 
 <p align="center">
   <a href="https://streamzito.vercel.app/" target="_blank">🌐 Website</a>
@@ -25,5 +23,5 @@
 
 
 ## 🤔 What is Atlas?
-- [O que é o Streamzito?](https://streamzito.gitbook.io/streamzito-docs/introducao/quickstart)
+- [O que é o Streamzito💜​](https://streamzito.gitbook.io/streamzito-docs/introducao/quickstart)
 
