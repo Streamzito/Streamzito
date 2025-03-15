@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="http://atlasos.net" target="_blank"><img src="https://i.imgur.com/26ibhnA.jpg" alt="Atlas" width="800"></a>
+</h1>
+  <p align="center">
+    <a href=""><img alt="License" src="https://img.shields.io/github/license/atlas-os/atlas?style=for-the-badge&logo=github&color=9146ff"/></a>
+    <a href=""><img alt="Contributors" src="https://img.shields.io/github/contributors/atlas-os/atlas?style=for-the-badge&color=9146ff" /></a>
+    <a href=""><img alt="Release" src="https://img.shields.io/github/release/atlas-os/atlas?style=for-the-badge&color=9146ff" /></a>
+    <a href=""><img alt="Code of Conduct" src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge&color=9146ff" /></a>
+  </p>
+<p align="center">A transparent and lightweight modification to Windows, designed to optimize performance, privacy and usability.</p>
 
-<!--
-**Streamzito/Streamzito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://streamzito.vercel.app/" target="_blank">🌐 Website</a>
+  •
+  <a href="https://streamzito.gitbook.io/streamzito-docs" target="_blank">📚 Documentation</a>
+  •
+  <a href="https://discord.gg/CcpaFvxCSX" target="_blank">☎️ Discord</a>
+  •
+  <a href="https://streamzito.gitbook.io/streamzito-docs/contato-e-suporte/precisa-de-ajuda" target="_blank">💬 Discussions</a>
+</p>
 
-Here are some ideas to get you started:
+## 📚 **Documentação importante**
+- [Guia de Configuração](https://streamzito.gitbook.io/streamzito-docs/introducao/publish-your-docs)
+- [FAQ](https://streamzito.gitbook.io/streamzito-docs/faq/perguntas-frequentes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🤔 What is Atlas?
+- [O que é o Streamzito?](https://streamzito.gitbook.io/streamzito-docs/introducao/quickstart)
+
